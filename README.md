@@ -8,7 +8,7 @@
 
 This is a React.js/Next.js based landing page plug-n-play template, ideal for startups/companies/service providers wanting to showcase their vision in a single page sleek and modern landing page.
 
-### Features
+### Products
 
 - 📱  Responsive design
 - 🔥 [Next.js](https://nextjs.org) for Static Site Generator

@@ -2,11 +2,11 @@ import React from 'react';
 
 import config from '../config/index.json';
 
-const Features = () => {
-  const { features } = config;
-  const { title, subtitle, description, items: featuresList } = features;
+const Products = () => {
+  const { products } = config;
+  const { title, subtitle, description, items: featuresList } = products;
   return (
-    <div className={`py-12 bg-background`} id="features">
+    <div className={`py-12 bg-background`} id="products">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           <h2
@@ -52,4 +52,4 @@ const Features = () => {
   );
 };
 
-export default Features;
+export default Products;
