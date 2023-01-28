@@ -12,7 +12,8 @@
     "lint": "next lint",
     "build-types": "tsc --noEmit --pretty",
     "prepare": "husky install",
-    "deploy-gh": "gh-pages -d out"
+    "deploy-gh": "gh-pages -d out",
+    "foo": "echo hi"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
