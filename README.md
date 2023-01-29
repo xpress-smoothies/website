@@ -1,8 +1,6 @@
 # Xpress Smoke Shop
 
-## <a href="https://react-landing-page-templ-20ate21.vercel.app/"> LIVE DEMO</a>
-
-<img src="public/assets/gifs/demo.gif" width="100%" height="auto" />
+Code for the site!
 
 ### Description
 
@@ -45,11 +43,9 @@ Open <http://localhost:3000> with your favorite browser to see your project.
  
  3. **Theme**:  to change the theme, update the ```tailwind.config.js```  file to match the theme of your branding. [Tutorial](https://tailwindcss.com/docs/configuration).
 
-
 #### 3. Deploying to production
 
-(Netlify)
-
+Currently hosted on Netlify (Jim): https://admirable-unicorn-5625e0.netlify.app/
 
 You can create an optimised production build with:
 
