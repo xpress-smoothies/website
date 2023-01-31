@@ -59,10 +59,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
+                href="http://maps.apple.com/maps?q=39.4736096,-75.0664528"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
+                Visit
               </a>
             </div>
           </nav>

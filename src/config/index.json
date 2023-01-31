@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Raising The Bar",
-        "description": "Here at our flagship store we will have the best cigars, vapes, and all smoke related accessories. Come check out our walk-in humidor room or gigantic hookah wall!",
+        "description": "Here at our flagship store we will have the best cigars, vapes, and all smoke related accessories. Come check out our walk-in humidor room and gigantic hookah wall!",
         "img": "/assets/images/product1.jpg"
       }
     ]
@@ -44,11 +44,11 @@
   "products": {
     "title": "Latest & greatest ",
     "subtitle": "All the best vapes, glass, and accessories!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "description": "We have searched far and wide for the highest quality pieces at great prices! Come check out our incredible selection for yourself. 😉",
     "items": [
       {
         "name": "Vapes",
-        "description": "We carry a large but currated collection of the smoothiest and tastiest disposable and refillable vapes.",
+        "description": "We carry a large but curated collection of the smoothest and tastiest disposable and refillable vapes.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
