@@ -2,6 +2,12 @@
 
 Code for the site!
 
+
+### Deployment
+
+Commit to `main` and netlify should deploy the code to prod automatically.
+
+
 ### Description
 
 This is a React.js/Next.js based landing page plug-n-play template, ideal for startups/companies/service providers wanting to showcase their vision in a single page sleek and modern landing page.
