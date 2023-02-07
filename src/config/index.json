@@ -24,7 +24,7 @@
     "img": "/assets/images/xpress-storefront-cropped-3.png",
     "primaryAction": {
       "text": "Visit",
-      "href": "http://maps.apple.com/maps?q=39.4736096,-75.0664528"
+      "href": "http://maps.apple.com/?address=1381+West+Landis+Ave,+Suite+200,+Vineland+NJ+08360&t=m"
     },
     "secondaryAction": {
       "text": "Email us",
@@ -74,7 +74,7 @@
       "twitter": "https://twitter.com/JimLynchCodes",
       "facebook": "https://www.facebook.com/profile.php?id=784740701",
       "youtube": "https://youtu.be/eBGIQ7ZuuiU?t=42",
-      "maps": "http://maps.apple.com/maps?q=39.4736096,-75.0664528",
+      "maps": "http://maps.apple.com/?address=1381+West+Landis+Ave,+Suite+200,+Vineland+NJ+08360&t=m",
       "phone": "tel:12017057505",
       "github": "https://github.com/issaafalkattan",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"

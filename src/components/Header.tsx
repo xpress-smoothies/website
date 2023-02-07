@@ -59,7 +59,7 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="http://maps.apple.com/maps?q=39.4736096,-75.0664528"
+                href="http://maps.apple.com/?address=1381+West+Landis+Ave,+Suite+200,+Vineland+NJ+08360&t=m"
                 className={`font-medium text-primary hover:text-secondary`}
               >
                 Visit
