@@ -1,7 +1,8 @@
 {
   "company": {
     "name": "Xpress Smoke Shop, LLC",
-    "logo": "/assets/images/xpress-pineapple-face.png"
+    "logo": "/assets/images/xpress-pineapple-face.png",
+    "aboutLogo": "/assets/images/xpress-pineapple-face.png"
   },
   "navigation": [
     {
@@ -14,17 +15,17 @@
     }
   ],
   "callToAction": {
-    "text": "Call to",
-    "href": "tel:12017057505"
+    "text": "Stop by",
+    "href": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6"
   },
   "mainHero": {
-    "title": "Coming To Vineland",
-    "subtitle": "NJ this spring.",
-    "description": "Xpress Smoke Shop is your one-stop shop for all cigar, vape, and smoking accessories.",
+    "title": "Opening March 1st",
+    "subtitle": "In Vineland, NJ",
+    "description": "on Landis Ave right next to the Starbucks!",
     "img": "/assets/images/xpress-storefront-cropped-3.png",
     "primaryAction": {
-      "text": "Visit",
-      "href": "http://maps.apple.com/?address=1381+West+Landis+Ave,+Suite+200,+Vineland+NJ+08360&t=m"
+      "text": "Stop by",
+      "href": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6"
     },
     "secondaryAction": {
       "text": "Email us",
@@ -74,7 +75,7 @@
       "twitter": "https://twitter.com/JimLynchCodes",
       "facebook": "https://www.facebook.com/profile.php?id=784740701",
       "youtube": "https://youtu.be/eBGIQ7ZuuiU?t=42",
-      "maps": "http://maps.apple.com/?address=1381+West+Landis+Ave,+Suite+200,+Vineland+NJ+08360&t=m",
+      "maps": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6",
       "phone": "tel:12017057505",
       "github": "https://github.com/issaafalkattan",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"

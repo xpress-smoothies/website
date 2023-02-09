@@ -1,5 +1,7 @@
 import React from 'react';
 
+import Head from 'next/head';
+
 import About from '../components/About';
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
@@ -13,6 +15,9 @@ import Products from '../components/Products';
 const App = () => {
   return (
     <div className={`bg-background grid gap-y-16 overflow-hidden`}>
+      <Head>
+        <title>Xpress Smoke Shop</title>
+      </Head>
       <div className={`relative bg-background`}>
         <div className="max-w-7xl mx-auto">
           <div

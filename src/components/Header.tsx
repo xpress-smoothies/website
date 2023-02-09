@@ -32,7 +32,11 @@ const Menu = () => {
               <div className="flex items-center justify-between w-full md:w-auto">
                 <a href="#">
                   <span className="sr-only">{companyName}</span>
-                  <img alt="logo" className="h-16 w-auto sm:h-16" src={logo} />
+                  <img
+                    alt="logo"
+                    className="h-24 w-48 w-auto sm:h-16"
+                    src={logo}
+                  />
                 </a>
                 <div className="-mr-2 flex items-center md:hidden">
                   <Popover.Button
@@ -59,10 +63,10 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="http://maps.apple.com/?address=1381+West+Landis+Ave,+Suite+200,+Vineland+NJ+08360&t=m"
+                href="https://goo.gl/maps/kSXDTfwz2BWJKNsv6"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Visit
+                Stop by
               </a>
             </div>
           </nav>
