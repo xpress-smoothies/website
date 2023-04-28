@@ -29,7 +29,7 @@ const Menu = () => {
             aria-label="Global"
           >
             <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
-              <div className="flex items-center justify-between w-full md:w-auto">
+              <div className="flex items-center justify-between w-full md:w-auto cursor-pointer">
                 <a href="#">
                   <span className="sr-only">{companyName}</span>
                   <img
@@ -57,7 +57,7 @@ const Menu = () => {
                   duration={1000}
                   key={item.name}
                   to={item.href}
-                  className="font-medium text-gray-500 hover:text-gray-900"
+                  className="font-medium text-gray-500 hover:text-gray-900 cursor-pointer"
                 >
                   {item.name}
                 </Link>
@@ -110,7 +110,7 @@ const Menu = () => {
                     duration={1000}
                     key={item.name}
                     to={item.href}
-                    className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50"
+                    className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 cursor-pointer"
                   >
                     {item.name}
                   </Link>

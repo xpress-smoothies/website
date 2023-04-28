@@ -11,6 +11,7 @@ import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import Products from '../components/Products';
+import Reviews from '../components/Reviews';
 
 const App = () => {
   return (
@@ -39,6 +40,12 @@ const App = () => {
       <LazyShow>
         <>
           <Products />
+          <Canvas />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
+          <Reviews />
           <Canvas />
         </>
       </LazyShow>
