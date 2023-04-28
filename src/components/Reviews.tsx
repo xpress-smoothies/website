@@ -1,5 +1,8 @@
 import React from 'react';
 
+import 'react-responsive-carousel/lib/styles/carousel.min.css'; // requires a loader
+import { Carousel } from 'react-responsive-carousel';
+
 import config from '../config/index.json';
 
 const Reviews = () => {
@@ -49,6 +52,21 @@ const Reviews = () => {
               ))}
             </dl>
           </div>
+
+          <Carousel emulateTouch={true}>
+            <div>
+              <img src="/assets/images/xpress-storefront-cropped-3.png" />
+              <p className="legend">Legend 1</p>
+            </div>
+            <div>
+              <img src="/assets/images/HappyTeam.jpeg" />
+              <p className="legend">Legend 2</p>
+            </div>
+            <div>
+              <img src="/assets/images/logo.png" />
+              <p className="legend">Legend 3</p>
+            </div>
+          </Carousel>
         </div>
       </div>
     </section>
