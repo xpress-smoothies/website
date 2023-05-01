@@ -14,7 +14,7 @@ a {
 }
 
 a:hover {
-  @apply border-b-2 border-red-700;
+  /* @apply border-b-2 border-red-700; */
 }
 
 

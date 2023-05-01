@@ -12,6 +12,10 @@
     {
       "name": "Products",
       "href": "products"
+    },
+    {
+      "name": "Reviews",
+      "href": "reviews"
     }
   ],
   "callToAction": {
@@ -66,6 +70,47 @@
         "name": "Hookahs",
         "description": "On our massive hookah wall we have a large variety of hookah models and some of the best shisha around.",
         "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "reviews": {
+    "title": "Reviews",
+    "subtitle": "People have a lot of good things to say about Xpress Smoke Shop!",
+    "reviewList": [
+      {
+        "imgPathS": "/assets/images/xpress-review-brett-s.png",
+        "imgPathM": "/assets/images/xpress-review-brett-m.png",
+        "link": "https://goo.gl/maps/6KVhYn1eBmdRrfJs7"
+      },
+      {
+        "imgPathS": "/assets/images/xpress-review-allison-s.png",
+        "imgPathM": "/assets/images/xpress-review-allison-m.png",
+        "link": "https://goo.gl/maps/FYTG8We8q3Q9bUZ59"
+      },
+      {
+        "imgPathS": "/assets/images/xpress-review-steven-s.png",
+        "imgPathM": "/assets/images/xpress-review-steven-m.png",
+        "link": "https://goo.gl/maps/zS7nd97EjcWB5qwR7"
+      },
+      {
+        "imgPathS": "/assets/images/xpress-review-crystal-s.png",
+        "imgPathM": "/assets/images/xpress-review-crystal-m.png",
+        "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8"
+      },
+      {
+        "imgPathS": "/assets/images/xpress-review-amar-s.png",
+        "imgPathM": "/assets/images/xpress-review-amar-m.png",
+        "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7"
+      },
+      {
+        "imgPathS": "/assets/images/xpress-review-loud-s.png",
+        "imgPathM": "/assets/images/xpress-review-loud-m.png",
+        "link": "https://goo.gl/maps/3bArUgmpZwT7Y7kdA"
+      },
+      {
+        "imgPathS": "/assets/images/xpress-review-chelsea-s.png",
+        "imgPathM": "/assets/images/xpress-review-chelsea-m.png",
+        "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9"
       }
     ]
   },
