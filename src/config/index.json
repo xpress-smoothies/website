@@ -26,7 +26,8 @@
     "title": "Now Open!",
     "subtitle": "Premier Cigars & Smoke Shop",
     "description": "Located in Vineland, NJ on Landis Ave right next to the Starbucks! Come on in and ask about our current promos & specials!",
-    "img": "/assets/images/xpress-storefront-cropped-3.png",
+    "img": "/assets/images/xpress-with-sign-cropped-2.jpg",
+    "imgS": "/assets/images/xpress-with-sign-cropped-s.jpg",
     "primaryAction": {
       "text": "Stop by",
       "href": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6"

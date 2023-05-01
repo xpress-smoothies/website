@@ -64,31 +64,3 @@ yarn build-prod
 Feel free to fork / open issues for this repo.
 
 Created by @JimLynchCodes and the [react-landing-page-template-2021](https://github.com/issaafalkattan/react-landing-page-template-2021).
-
-
-
-
-{
-        "imgPath": "/assets/images/xpress-review-allison.png",
-        "link": "https://goo.gl/maps/FYTG8We8q3Q9bUZ59"
-      },
-      {
-        "imgPath": "/assets/images/xpress-review-crystal.png",
-        "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8"
-      },
-      {
-        "imgPath": "/assets/images/xpress-review-steven.png",
-        "link": "https://goo.gl/maps/zS7nd97EjcWB5qwR7"
-      },
-      {
-        "imgPath": "/assets/images/xpress-review-amar.png",
-        "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7"
-      },
-      {
-        "imgPath": "/assets/images/xpress-review-loud.png",
-        "link": "https://goo.gl/maps/3bArUgmpZwT7Y7kdA"
-      },
-      {
-        "imgPath": "/assets/images/xpress-review-chelsea.png",
-        "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9"
-      }
