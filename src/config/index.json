@@ -35,7 +35,25 @@
     "secondaryAction": {
       "text": "Email us",
       "href": "mailto:help@xpresssmokeshop.com"
-    }
+    },
+    "heroImages": [
+      {
+        "imgPathS": "/assets/images/hero-carousel-images/hero-front-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/hero-front-m.jpg"
+      },
+      {
+        "imgPathS": "/assets/images/hero-carousel-images/hero-night-front-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/hero-night-front-m.jpg"
+      },
+      {
+        "imgPathS": "/assets/images/hero-carousel-images/hero-side-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/hero-side-m.jpg"
+      },
+      {
+        "imgPathS": "/assets/images/hero-carousel-images/hero-sign-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/hero-sign-m.jpg"
+      }
+    ]
   },
   "experience": {
     "title": "A Brand New Smoke & Vape Shop Experience",
@@ -79,43 +97,43 @@
     "subtitle": "People have a lot of good things to say about Xpress Smoke Shop!",
     "reviewList": [
       {
-        "imgPathS": "/assets/images/richie-review-xpress-s.png",
-        "imgPathM": "/assets/images/richie-review-xpress-m.png",
+        "imgPathS": "/assets/images/reviews/richie-review-xpress-s.png",
+        "imgPathM": "/assets/images/reviews/richie-review-xpress-m.png",
         "link": "https://goo.gl/maps/d2WSiGTsh4xUJfLW7"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-brett-s.png",
-        "imgPathM": "/assets/images/xpress-review-brett-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-brett-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-brett-m.png",
         "link": "https://goo.gl/maps/6KVhYn1eBmdRrfJs7"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-allison-s.png",
-        "imgPathM": "/assets/images/xpress-review-allison-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-allison-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-allison-m.png",
         "link": "https://goo.gl/maps/FYTG8We8q3Q9bUZ59"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-steven-s.png",
-        "imgPathM": "/assets/images/xpress-review-steven-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-steven-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-steven-m.png",
         "link": "https://goo.gl/maps/zS7nd97EjcWB5qwR7"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-crystal-s.png",
-        "imgPathM": "/assets/images/xpress-review-crystal-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-crystal-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-crystal-m.png",
         "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-amar-s.png",
-        "imgPathM": "/assets/images/xpress-review-amar-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-amar-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-amar-m.png",
         "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-loud-s.png",
-        "imgPathM": "/assets/images/xpress-review-loud-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-loud-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-loud-m.png",
         "link": "https://goo.gl/maps/3bArUgmpZwT7Y7kdA"
       },
       {
-        "imgPathS": "/assets/images/xpress-review-chelsea-s.png",
-        "imgPathM": "/assets/images/xpress-review-chelsea-m.png",
+        "imgPathS": "/assets/images/reviews/xpress-review-chelsea-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-chelsea-m.png",
         "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9"
       }
     ]
