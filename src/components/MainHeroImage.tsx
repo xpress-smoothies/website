@@ -22,11 +22,12 @@ const MainHeroImage = () => {
                 <img
                   className="h-1/2 w-full object-cover lg:w-full lg:h-full"
                   src={heroImg.imgPathS}
+                  alt={heroImg.altText}
                 />
               </div>
 
               <div className="hidden md:inline-flex">
-                <img src={heroImg.imgPathM} />
+                <img src={heroImg.imgPathM} alt={heroImg.altText} />
               </div>
             </div>
           );

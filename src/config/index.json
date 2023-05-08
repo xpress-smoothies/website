@@ -39,19 +39,23 @@
     "heroImages": [
       {
         "imgPathS": "/assets/images/hero-carousel-images/hero-front-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-front-m.jpg"
+        "imgPathM": "/assets/images/hero-carousel-images/hero-front-m.jpg",
+        "altText": "Xpress Smoke Shop store front on a nice, sunny day."
       },
       {
         "imgPathS": "/assets/images/hero-carousel-images/hero-night-front-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-night-front-m.jpg"
+        "imgPathM": "/assets/images/hero-carousel-images/hero-night-front-m.jpg",
+        "altText": "Xpress Smoke Shop store front at night with sign brightly glowing."
       },
       {
         "imgPathS": "/assets/images/hero-carousel-images/hero-side-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-side-m.jpg"
+        "imgPathM": "/assets/images/hero-carousel-images/hero-side-m.jpg",
+        "altText": "Xpress Smoke Shop store front during the day photographed from a cool side angle."
       },
       {
         "imgPathS": "/assets/images/hero-carousel-images/hero-sign-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-sign-m.jpg"
+        "imgPathM": "/assets/images/hero-carousel-images/hero-sign-m.jpg",
+        "altText": "Xpress Smoke Shop store front from early days when we only had the pylon sign."
       }
     ]
   },
@@ -99,42 +103,50 @@
       {
         "imgPathS": "/assets/images/reviews/richie-review-xpress-s.png",
         "imgPathM": "/assets/images/reviews/richie-review-xpress-m.png",
-        "link": "https://goo.gl/maps/d2WSiGTsh4xUJfLW7"
+        "link": "https://goo.gl/maps/d2WSiGTsh4xUJfLW7",
+        "altText": "Five star review from Richie"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-brett-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-brett-m.png",
-        "link": "https://goo.gl/maps/6KVhYn1eBmdRrfJs7"
+        "link": "https://goo.gl/maps/6KVhYn1eBmdRrfJs7",
+        "altText": "Five star review from Brett"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-allison-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-allison-m.png",
-        "link": "https://goo.gl/maps/FYTG8We8q3Q9bUZ59"
+        "link": "https://goo.gl/maps/FYTG8We8q3Q9bUZ59",
+        "altText": "Five star review from Allison"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-steven-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-steven-m.png",
-        "link": "https://goo.gl/maps/zS7nd97EjcWB5qwR7"
+        "link": "https://goo.gl/maps/zS7nd97EjcWB5qwR7",
+        "altText": "Five star review from Steven"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-crystal-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-crystal-m.png",
-        "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8"
+        "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8",
+        "altText": "Five star review from Crystal"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-amar-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-amar-m.png",
-        "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7"
+        "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7",
+        "altText": "Five star review from Amar"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-loud-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-loud-m.png",
-        "link": "https://goo.gl/maps/3bArUgmpZwT7Y7kdA"
+        "link": "https://goo.gl/maps/3bArUgmpZwT7Y7kdA",
+        "altText": "Five star review from Loud"
       },
       {
         "imgPathS": "/assets/images/reviews/xpress-review-chelsea-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-chelsea-m.png",
-        "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9"
+        "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9",
+        "altText": "Five star review from Chelsea"
       }
     ]
   },

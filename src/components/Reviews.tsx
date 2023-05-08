@@ -42,13 +42,12 @@ const Reviews = () => {
                   {/* review img */}
 
                   <div className="sm:hidden">
-                    <img src={review.imgPathS} />
+                    <img src={review.imgPathS} alt={review.altText} />
                   </div>
 
                   <div className="hidden sm:inline-flex">
-                    <img src={review.imgPathM} />
+                    <img src={review.imgPathM} alt={review.altText} />
                   </div>
-                  {/* <img src={review.imgPath} className='md:w-3/4 lg:w-1/2' /> */}
 
                   {/* view on Google Maps btn */}
                   <div className="mx-auto mb-4 w-1/2 md:w-1/3 lg:w-1/6">
@@ -56,6 +55,7 @@ const Reviews = () => {
                       <img
                         src="/assets/images/read-review-on-maps-btn.png"
                         className="flex"
+                        alt="Button to view original review"
                       />
                     </a>
                   </div>
