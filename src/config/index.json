@@ -79,6 +79,11 @@
     "subtitle": "People have a lot of good things to say about Xpress Smoke Shop!",
     "reviewList": [
       {
+        "imgPathS": "/assets/images/richie-review-xpress-s.png",
+        "imgPathM": "/assets/images/richie-review-xpress-m.png",
+        "link": "https://goo.gl/maps/d2WSiGTsh4xUJfLW7"
+      },
+      {
         "imgPathS": "/assets/images/xpress-review-brett-s.png",
         "imgPathM": "/assets/images/xpress-review-brett-m.png",
         "link": "https://goo.gl/maps/6KVhYn1eBmdRrfJs7"

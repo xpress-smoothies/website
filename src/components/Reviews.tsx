@@ -30,7 +30,12 @@ const Reviews = () => {
           </p> */}
           </div>
 
-          <Carousel emulateTouch={true}>
+          <Carousel
+            emulateTouch={true}
+            autoPlay={true}
+            interval={4000}
+            infiniteLoop={true}
+          >
             {reviewList.map((review, index) => {
               return (
                 <div key={index} className="mx-auto">

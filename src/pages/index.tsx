@@ -33,6 +33,12 @@ const App = () => {
       <Canvas />
       <LazyShow>
         <>
+          <Reviews />
+          <Canvas />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
           <Experience />
           <Canvas />
         </>
@@ -40,12 +46,6 @@ const App = () => {
       <LazyShow>
         <>
           <Products />
-          <Canvas />
-        </>
-      </LazyShow>
-      <LazyShow>
-        <>
-          <Reviews />
           <Canvas />
         </>
       </LazyShow>
