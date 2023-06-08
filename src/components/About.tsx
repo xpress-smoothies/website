@@ -91,7 +91,7 @@ const About = () => {
           </a>
         </div>
         <div className="flex items-center mt-8">
-          <p className="mt-4 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
+          <p className="mt-4 text-xs lg:text-sm ">
             <a href={address.link}>{address.text}</a>
           </p>
         </div>
