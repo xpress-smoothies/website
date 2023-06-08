@@ -6,16 +6,16 @@
   },
   "navigation": [
     {
+      "name": "Reviews",
+      "href": "reviews"
+    },
+    {
       "name": "Experience",
       "href": "experience"
     },
     {
       "name": "Products",
       "href": "products"
-    },
-    {
-      "name": "Reviews",
-      "href": "reviews"
     }
   ],
   "callToAction": {
@@ -157,6 +157,10 @@
       "maps": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6",
       "email": "mailto:help@xpresssmokeshop.com",
       "phone": "tel:12017057505"
+    },
+    "address": {
+      "text": "1381 W Landis Ave #1381B, Vineland, NJ 08360",
+      "link": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6"
     }
   }
 }

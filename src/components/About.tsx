@@ -5,19 +5,19 @@ import config from '../config/index.json';
 const About = () => {
   const { company, about } = config;
   const { name: companyName, aboutLogo } = company;
-  const { socialMedia } = about;
+  const { socialMedia, address } = about;
 
   return (
     <div
       id="about"
-      className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4 py-12"
+      className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4"
     >
       <div className="flex flex-col items-center justify-center">
         <div>
           <img src={aboutLogo} alt={companyName} className="w-16 h-18" />
         </div>
         <div className="flex flex-wrap sm:gap-10 gap-8 items-center justify-center mt-4 h-12"></div>
-        <div className="flex items-center gap-x-8 mt-6 h-8">
+        <div className="flex items-center gap-x-8 h-6">
           <a
             aria-label="instagram"
             href={socialMedia.instagram}
@@ -90,8 +90,13 @@ const About = () => {
             </svg>
           </a>
         </div>
-        <div className="flex items-center mt-6">
-          <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
+        <div className="flex items-center mt-8">
+          <p className="mt-4 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
+            <a href={address.link}>{address.text}</a>
+          </p>
+        </div>
+        <div className="flex items-center mt-3">
+          <p className="mt-3 mb-8 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
             &copy; {new Date().getFullYear()} Xpress Smoke Shop, LLC
           </p>
         </div>
