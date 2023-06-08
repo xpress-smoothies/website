@@ -51,11 +51,6 @@
         "imgPathS": "/assets/images/hero-carousel-images/hero-side-s.jpg",
         "imgPathM": "/assets/images/hero-carousel-images/hero-side-m.jpg",
         "altText": "Xpress Smoke Shop store front during the day photographed from a cool side angle."
-      },
-      {
-        "imgPathS": "/assets/images/hero-carousel-images/hero-sign-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-sign-m.jpg",
-        "altText": "Xpress Smoke Shop store front from early days when we only had the pylon sign."
       }
     ]
   },
@@ -65,7 +60,7 @@
       {
         "title": "Raising The Bar",
         "description": "Here at our flagship store we will have the best cigars, vapes, and all smoke related accessories. Come check out our walk-in humidor room and gigantic hookah wall!",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/guy-with-lightbulbs-orange.png"
       }
     ]
   },
