@@ -38,19 +38,24 @@
     },
     "heroImages": [
       {
-        "imgPathS": "/assets/images/hero-carousel-images/hero-front-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-front-m.jpg",
-        "altText": "Xpress Smoke Shop store front on a nice, sunny day."
+        "imgPathS": "/assets/images/hero-carousel-images/xpress-front-day-jun-8-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/xpress-front-day-jun-8-m.jpg",
+        "altText": "Xpress Smoke Shop storefront on a nice, sunny day."
       },
       {
-        "imgPathS": "/assets/images/hero-carousel-images/hero-night-front-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-night-front-m.jpg",
-        "altText": "Xpress Smoke Shop store front at night with sign brightly glowing."
+        "imgPathS": "/assets/images/hero-carousel-images/xpress-front-night-jun-8-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/xpress-front-night-jun-8-m.jpg",
+        "altText": "Xpress Smoke Shop store front at night with the sign brightly glowing."
       },
       {
-        "imgPathS": "/assets/images/hero-carousel-images/hero-side-s.jpg",
-        "imgPathM": "/assets/images/hero-carousel-images/hero-side-m.jpg",
-        "altText": "Xpress Smoke Shop store front during the day photographed from a cool side angle."
+        "imgPathS": "/assets/images/hero-carousel-images/xpress-front-angle-day-jun-8-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/xpress-front-angle-day-jun-8-m.jpg",
+        "altText": "Xpress Smoke Shop storefront during the day photographed from a cool side angle."
+      },
+      {
+        "imgPathS": "/assets/images/hero-carousel-images/xpress-front-day-close-up-jun-8-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/xpress-front-day-close-up-jun-8-m.jpg",
+        "altText": "A close-up shot of the Xpress Smoke Shop sign."
       }
     ]
   },
