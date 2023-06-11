@@ -23,9 +23,9 @@
     "href": "https://goo.gl/maps/kSXDTfwz2BWJKNsv6"
   },
   "mainHero": {
-    "title": "Now Open!",
-    "subtitle": "Premier Cigars & Smoke Shop",
-    "description": "Located in Vineland, NJ on Landis Ave right next to the Starbucks! Come on in and ask about our current promos & specials!",
+    "title": "Now Open",
+    "subtitle": "at 7am!",
+    "description": "Rise and shine, Vineland! Your favorite smoke shop is now open early, so grab your Starbucks coffee and come on in!",
     "img": "/assets/images/xpress-with-sign-cropped-2.jpg",
     "imgS": "/assets/images/xpress-with-sign-cropped-s.jpg",
     "primaryAction": {
@@ -64,7 +64,7 @@
     "items": [
       {
         "title": "Raising The Bar",
-        "description": "Here at our flagship store we will have the best cigars, vapes, and all smoke related accessories. Come check out our walk-in humidor room and gigantic hookah wall!",
+        "description": "Here at our flagship store we will have extremely fresh and delicious cigars, vapes, and smoke related products. Come check out our selection of edibles as well!",
         "img": "/assets/images/guy-with-lightbulbs-orange.png"
       }
     ]
@@ -86,12 +86,12 @@
       },
       {
         "name": "Cannabis Accessories",
-        "description": "We have everything you need from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders.",
+        "description": "We have everything you need for preparing and consuming cannabis from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
         "name": "Hookahs",
-        "description": "On our massive hookah wall we have a large variety of hookah models and some of the best shisha around.",
+        "description": "From practical pieces that can fit in a car cup holder to extravagent ceramic works of art, we have all kinds of hookahs, coals, and shisha.",
         "icon": "/assets/images/ts.png"
       }
     ]
