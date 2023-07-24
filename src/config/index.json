@@ -77,22 +77,22 @@
       {
         "name": "Vapes",
         "description": "We carry a large but curated collection of the smoothest and tastiest disposable and refillable vapes.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/vape.png"
       },
       {
         "name": "Cigars",
         "description": "In our oversized walk-in humidor we carry a vast selection of cigars from all over the world.",
-        "icon": "/assets/images/react.png"
-      },
-      {
-        "name": "Cannabis Accessories",
-        "description": "We have everything you need for preparing and consuming cannabis from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders.",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/cigar.png"
       },
       {
         "name": "Hookahs",
         "description": "From practical pieces that can fit in a car cup holder to extravagent ceramic works of art, we have all kinds of hookahs, coals, and shisha.",
-        "icon": "/assets/images/ts.png"
+        "icon": "/assets/images/hookah.png"
+      },
+      {
+        "name": "Cannabis Accessories",
+        "description": "We have everything you need for preparing and consuming cannabis from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders. We even have thc flower now as well!",
+        "icon": "/assets/images/pot-leaf-icon.png"
       }
     ]
   },
@@ -100,6 +100,24 @@
     "title": "Reviews",
     "subtitle": "People have a lot of good things to say about Xpress Smoke Shop!",
     "reviewList": [
+      {
+        "imgPathS": "/assets/images/reviews/xpress-review-angela-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-angela-m.png",
+        "link": "https://goo.gl/maps/c1keJk4HPX6B3xnz6",
+        "altText": "Five star review from Angela"
+      },
+      {
+        "imgPathS": "/assets/images/reviews/xpress-review-amar-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-amar-m.png",
+        "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7",
+        "altText": "Five star review from Amar"
+      },
+      {
+        "imgPathS": "/assets/images/reviews/xpress-review-chelsea-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-chelsea-m.png",
+        "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9",
+        "altText": "Five star review from Chelsea"
+      },
       {
         "imgPathS": "/assets/images/reviews/richie-review-xpress-s.png",
         "imgPathM": "/assets/images/reviews/richie-review-xpress-m.png",
@@ -125,28 +143,22 @@
         "altText": "Five star review from Steven"
       },
       {
-        "imgPathS": "/assets/images/reviews/xpress-review-crystal-s.png",
-        "imgPathM": "/assets/images/reviews/xpress-review-crystal-m.png",
-        "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8",
-        "altText": "Five star review from Crystal"
-      },
-      {
-        "imgPathS": "/assets/images/reviews/xpress-review-amar-s.png",
-        "imgPathM": "/assets/images/reviews/xpress-review-amar-m.png",
-        "link": "https://goo.gl/maps/tUG8pyDibwcgML1b7",
-        "altText": "Five star review from Amar"
-      },
-      {
         "imgPathS": "/assets/images/reviews/xpress-review-loud-s.png",
         "imgPathM": "/assets/images/reviews/xpress-review-loud-m.png",
         "link": "https://goo.gl/maps/3bArUgmpZwT7Y7kdA",
         "altText": "Five star review from Loud"
       },
       {
-        "imgPathS": "/assets/images/reviews/xpress-review-chelsea-s.png",
-        "imgPathM": "/assets/images/reviews/xpress-review-chelsea-m.png",
-        "link": "https://goo.gl/maps/7ype7XoXg9FwME6a9",
-        "altText": "Five star review from Chelsea"
+        "imgPathS": "/assets/images/reviews/xpress-review-crystal-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-crystal-m.png",
+        "link": "https://goo.gl/maps/iTkzS9XGsgCSxLLW8",
+        "altText": "Five star review from Crystal"
+      },
+      {
+        "imgPathS": "/assets/images/reviews/xpress-review-jizmo-s.png",
+        "imgPathM": "/assets/images/reviews/xpress-review-jizmo-m.png",
+        "link": "https://goo.gl/maps/3NV8DQtycZkbGMKX7",
+        "altText": "Five star review from Jizmo"
       }
     ]
   },
