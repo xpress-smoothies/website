@@ -16,6 +16,10 @@
     {
       "name": "Products",
       "href": "products"
+    },
+    {
+      "name": "Policy",
+      "href": "policy"
     }
   ],
   "callToAction": {
@@ -73,6 +77,33 @@
     "title": "Latest & greatest ",
     "subtitle": "All the best vapes, glass, and accessories!",
     "description": "We have searched far and wide for the highest quality pieces at great prices! Come check out our incredible selection for yourself. 😉",
+    "items": [
+      {
+        "name": "Vapes",
+        "description": "We carry a large but curated collection of the smoothest and tastiest disposable and refillable vapes.",
+        "icon": "/assets/images/vape.png"
+      },
+      {
+        "name": "Cigars",
+        "description": "In our oversized walk-in humidor we carry a vast selection of cigars from all over the world.",
+        "icon": "/assets/images/cigar.png"
+      },
+      {
+        "name": "Hookahs",
+        "description": "From practical pieces that can fit in a car cup holder to extravagent ceramic works of art, we have all kinds of hookahs, coals, and shisha.",
+        "icon": "/assets/images/hookah.png"
+      },
+      {
+        "name": "Cannabis Accessories",
+        "description": "We have everything you need for preparing and consuming cannabis from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders. We even have thc flower now as well!",
+        "icon": "/assets/images/pot-leaf-icon.png"
+      }
+    ]
+  },
+  "policy": {
+    "title": "Official",
+    "subtitle": "Store Policy",
+    "description": "",
     "items": [
       {
         "name": "Vapes",

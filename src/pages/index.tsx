@@ -10,6 +10,7 @@ import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
+import Policy from '../components/Policy';
 import Products from '../components/Products';
 import Reviews from '../components/Reviews';
 
@@ -46,6 +47,12 @@ const App = () => {
       <LazyShow>
         <>
           <Products />
+          <Canvas />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
+          <Policy />
           <Canvas />
         </>
       </LazyShow>
