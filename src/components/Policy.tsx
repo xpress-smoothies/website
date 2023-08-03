@@ -22,7 +22,7 @@ const Policy = () => {
             All sales are final. &nbsp;
             <a
               target="_blank"
-              href="assets/pdfs/ALL SALES FINAL.pdf"
+              href="assets/pdfs/ALL_SALES_FINAL.pdf"
               className="text-primary font-semibold tracking-wide"
             >
               Read the full store policy →
