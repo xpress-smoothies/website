@@ -42,6 +42,11 @@
     },
     "heroImages": [
       {
+        "imgPathS": "/assets/images/hero-carousel-images/xpress-purple-s.jpg",
+        "imgPathM": "/assets/images/hero-carousel-images/xpress-purple-m.jpg",
+        "altText": "Xpress Smoke Shop with the purple ceililng lights."
+      },
+      {
         "imgPathS": "/assets/images/hero-carousel-images/xpress-front-day-jun-8-s.jpg",
         "imgPathM": "/assets/images/hero-carousel-images/xpress-front-day-jun-8-m.jpg",
         "altText": "Xpress Smoke Shop storefront on a nice, sunny day."
