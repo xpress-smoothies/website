@@ -100,37 +100,14 @@
       },
       {
         "name": "Smoking Accessories",
-        "description": "We have everything you need for smoking: glass pipes, bowls, rigs, vaporizers, and rolling papers to stash cans and grinders.",
+        "description": "We have everything you need for smoking- from glass pipes, bowls, rigs, vaporizers, and rolling papers to stash cans and grinders.",
         "icon": "/assets/images/grinder.png"
       }
     ]
   },
   "policy": {
     "title": "Official",
-    "subtitle": "Store Policy",
-    "description": "",
-    "items": [
-      {
-        "name": "Vapes",
-        "description": "We carry a large but curated collection of the smoothest and tastiest disposable and refillable vapes.",
-        "icon": "/assets/images/vape.png"
-      },
-      {
-        "name": "Cigars",
-        "description": "In our oversized walk-in humidor we carry a vast selection of cigars from all over the world.",
-        "icon": "/assets/images/cigar.png"
-      },
-      {
-        "name": "Hookahs",
-        "description": "From practical pieces that can fit in a car cup holder to extravagent ceramic works of art, we have all kinds of hookahs, coals, and shisha.",
-        "icon": "/assets/images/hookah.png"
-      },
-      {
-        "name": "Smoking Accessories",
-        "description": "We have everything you need for smoking: glass pipes, bowls, rigs, vaporizers, and rolling papers to stash cans and grinders.",
-        "icon": "/assets/images/grinder.png"
-      }
-    ]
+    "subtitle": "Store Policy"
   },
   "reviews": {
     "title": "Reviews",
