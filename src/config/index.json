@@ -99,9 +99,9 @@
         "icon": "/assets/images/hookah.png"
       },
       {
-        "name": "Cannabis Accessories",
-        "description": "We have everything you need for preparing and consuming cannabis from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders.",
-        "icon": "/assets/images/pot-leaf-icon.png"
+        "name": "Smoking Accessories",
+        "description": "We have everything you need for smoking: glass pipes, bowls, rigs, vaporizers, and rolling papers to stash cans and grinders.",
+        "icon": "/assets/images/grinder.png"
       }
     ]
   },
@@ -126,9 +126,9 @@
         "icon": "/assets/images/hookah.png"
       },
       {
-        "name": "Cannabis Accessories",
-        "description": "We have everything you need for preparing and consuming cannabis from smoking devices like glass pipes, bowls, herb vapirizers, and rolling papers to stash cans and grinders. We even have thc flower now as well!",
-        "icon": "/assets/images/pot-leaf-icon.png"
+        "name": "Smoking Accessories",
+        "description": "We have everything you need for smoking: glass pipes, bowls, rigs, vaporizers, and rolling papers to stash cans and grinders.",
+        "icon": "/assets/images/grinder.png"
       }
     ]
   },

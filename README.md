@@ -41,7 +41,7 @@ Run locally in development mode with live reload:
 yarn dev
 ```
 
-Open <http://localhost:3000> with your favorite browser to see your project.
+Open <http://localhost:5000> with your favorite browser to see your project.
 
  1. **Content**: change the configuration in the ```src/config/index.json``` file to change the content of the landing page to match your use ```src/config/index.json```  folder and .
 
