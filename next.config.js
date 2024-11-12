@@ -6,7 +6,7 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 module.exports = withBundleAnalyzer({
   poweredByHeader: false,
   trailingSlash: true,
-  // basePath: '/website', ** fuck gh-pages, srsly
+  // basePath: '/website',          // this and asset prefix are not needed for Netlify
   // assetPrefix: '/website/',
   // The starter code load resources from `public` folder with `router.basePath` in React components.
   // So, the source code is "basePath-ready".
